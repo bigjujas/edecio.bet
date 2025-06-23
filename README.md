@@ -63,5 +63,3 @@ Ele demonstra o uso de conceitos fundamentais como:
   Uso da biblioteca **colorama** para adicionar cores ao terminal e melhorar a experiência do usuário.
 
 ---
-
-Feito com dedicação para a disciplina, mas com aquele toque de diversão. Boa sorte e boas apostas! 🎰

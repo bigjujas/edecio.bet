@@ -1,4 +1,6 @@
-Jogador: Joao, Saldo Final: $40.00
-Jogador: Kleber, Saldo Final: $0.00
-Jogador: Pedro, Saldo Final: $50.00
-Jogador: Pedrinho, Saldo Final: $621.00
+Jogador: Angelo, Saldo Final: $621.00
+Jogador: Gladimir, Saldo Final: $502.00
+Jogador: Eric, Saldo Final: $13.00
+Jogador: Felipe, Saldo Final: $10.00
+Jogador: Edecio, Saldo Final: $87642.00
+Jogador: Joao, Saldo Final: $150.00

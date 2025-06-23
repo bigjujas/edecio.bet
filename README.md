@@ -1,7 +1,7 @@
-# 🎲 Edecio.Bet: A Sua Roleta de Cores! 🔴⚫
+# 🎲 Edecio.Bet 🔴⚫
 
 Bem-vindo ao **Edecio.Bet**, um programa de apostas interativo desenvolvido como projeto para a disciplina de **Algoritmos e Estruturas de Dados I**.  
-Aqui, você pode testar sua sorte na roleta e ver seu desempenho no ranking!
+Aqui, você pode testar sua sorte na roleta e ver seu desempenho no ranking.
 
 ---
 

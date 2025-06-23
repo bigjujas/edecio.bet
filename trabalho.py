@@ -48,8 +48,6 @@ def apostar_roleta(balance):
     if cor_escolhida_input not in ['P', 'V']:
         print(Fore.RED + "Erro! Escolha inválida. Por favor, digite 'P' para Preto ou 'V' para Vermelho.")
         return balance
-    
-    cor_escolhida_completa = "Vermelho" if cor_escolhida_input == 'V' else "Preto"
 
     cores_roleta_emojis = {'Vermelho': '🔴', 'Preto': '⚫'}
     cores_roleta_texto = list(cores_roleta_emojis.keys())
@@ -104,9 +102,8 @@ def ler_ranking():
                             saldo = float(partes[1])
                             jogadores_ranking.append((saldo, nome_raw))
                         except ValueError:
-                            pass # Ignora linhas com saldo inválido
+                            pass
         
-        # Ordena a lista de jogadores pelo saldo (primeiro elemento da tupla) em ordem decrescente
         jogadores_ranking.sort(key=lambda x: x[0], reverse=True)
 
         print(Fore.CYAN + "\n--- Ranking de Jogadores ---")
